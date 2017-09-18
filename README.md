@@ -13,4 +13,4 @@ This app provide users several options of a mobile phone. After user has selecte
 
 <img src="2.jpg" align="middle">
 
-<img src="1.jpg" align="middle">
+<img src="3.jpg" align="middle">
