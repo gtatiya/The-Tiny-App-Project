@@ -29,8 +29,8 @@ Android 6.0 (Marshmallow)
 
 ## Resources used
 
-[Android Documentation - LinearLayout](https://developer.android.com/reference/android/widget/LinearLayout.html)
-[Android Documentation - Intent](https://developer.android.com/reference/android/content/Intent.html)
+- [Android Documentation - LinearLayout](https://developer.android.com/reference/android/widget/LinearLayout.html)
+- [Android Documentation - Intent](https://developer.android.com/reference/android/content/Intent.html)
 
 ## Screenshots:
 <img src="1.jpg" align="middle">
