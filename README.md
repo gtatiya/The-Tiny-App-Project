@@ -26,7 +26,7 @@ Android 6.0 (Marshmallow)
 - Using widgets: buttons, radio buttons 
 - How to use intents
 - How to pass data between different views
-- How to deploy your app on the Emulator and on the actual mobile
+- How to deploy your app on the emulator and on the actual mobile
 
 ## Resources used
 
